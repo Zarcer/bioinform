@@ -1,0 +1,11 @@
+.env/
+tools/
+data/*.fastq
+data/*.fastq.gz
+data/*.fq
+data/*.fq.gz
+data/*.mmi
+results/**/*.sam
+results/**/*.bam
+results/**/*.bai
+results/**/*.vcf

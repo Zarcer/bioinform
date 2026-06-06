@@ -1,0 +1,13 @@
+Input reads: ERR11030140.subset_10000.fastq.gz
+Reference: GCF_000005845.2_ASM584v2_genomic.fna
+Mapped reads: 73.84%
+Threshold: 90%
+Decision: not OK
+
+Result:
+  The real run did not pass the 90% mapping threshold.
+  Therefore the bash algorithm stopped after quality assessment.
+
+Next step only if OK:
+  samtools sort -> ERR11030140.sorted.bam
+  freebayes can be run if installed -> ERR11030140.vcf

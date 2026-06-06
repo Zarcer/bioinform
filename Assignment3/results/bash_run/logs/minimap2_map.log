@@ -1,0 +1,8 @@
+[M::main::0.100*1.01] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.118*1.01] mid_occ = 12
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.134*1.01] distinct minimizers: 838542 (98.18% are singletons); average occurrences: 1.034; average spacing: 5.352; total length: 4641652
+[M::worker_pipeline::20.625*1.89] mapped 10000 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -ax map-ont -t 2 /home/zarc/bioinform/Assignment3/data/ecoli_k12_mg1655.fa.mmi /home/zarc/bioinform/Assignment3/data/ERR11030140.subset_10000.fastq.gz
+[M::main] Real time: 20.631 sec; CPU: 38.932 sec; Peak RSS: 1.074 GB

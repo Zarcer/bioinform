@@ -1,0 +1,8 @@
+reference:
+  class: File
+  path: ../data/ecoli_k12_mg1655.fa
+reads:
+  class: File
+  path: ../data/ERR11030140.subset_10000.fastq.gz
+threshold: 90
+threads: 2

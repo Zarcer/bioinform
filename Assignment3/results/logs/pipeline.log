@@ -1,0 +1,22 @@
+[real run summary]
+Command:
+  bash scripts/mapping_qc_pipeline.sh -r data/ecoli_k12_mg1655.fa -q data/ERR11030140.subset_10000.fastq.gz -o results/bash_run -t 90 -p 2
+
+Input:
+  reads: ERR11030140.subset_10000.fastq.gz, first 10000 reads from ENA ERR11030140
+  reference: GCF_000005845.2_ASM584v2 E. coli K-12 MG1655
+
+Steps completed:
+  FastQC
+  minimap2 index
+  minimap2 map-ont
+  samtools view
+  samtools flagstat
+  parse_flagstat.py
+
+Result:
+  mapped reads: 73.84%
+  threshold: 90%
+  decision: not OK
+
+Because the result was not OK, the bash algorithm did not run the downstream sort/freebayes branch.

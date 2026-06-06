@@ -1,0 +1,35 @@
+[real run summary]
+Validation command:
+  cwltool --validate cwl/mapping_qc.cwl
+
+Validation result:
+  cwl/mapping_qc.cwl is valid CWL.
+
+Run command:
+  cwltool --outdir results/cwl_run cwl/mapping_qc.cwl cwl/mapping-qc-job.template.yml
+
+Input:
+  reads: data/ERR11030140.subset_10000.fastq.gz
+  reference: data/ecoli_k12_mg1655.fa
+  threshold: 90
+  threads: 2
+
+Steps completed:
+  fastqc
+  minimap2 index
+  minimap2 map-ont
+  samtools view
+  samtools flagstat
+  parse_flagstat.py
+  samtools sort
+
+Final process status:
+  success
+
+Key output:
+  results/cwl_run/flagstat.txt
+  results/cwl_run/mapping_status.txt
+
+Mapping status:
+  73.84
+  not OK

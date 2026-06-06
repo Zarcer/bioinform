@@ -1,0 +1,8 @@
+[M::mm_idx_gen::0.295*1.01] collected minimizers
+[M::mm_idx_gen::0.357*1.26] sorted minimizers
+[M::main::0.438*1.21] loaded/built the index for 1 target sequence(s)
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.456*1.21] distinct minimizers: 838542 (98.18% are singletons); average occurrences: 1.034; average spacing: 5.352; total length: 4641652
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -d /home/zarc/bioinform/Assignment3/data/ecoli_k12_mg1655.fa.mmi /home/zarc/bioinform/Assignment3/data/ecoli_k12_mg1655.fa
+[M::main] Real time: 0.464 sec; CPU: 0.558 sec; Peak RSS: 0.046 GB

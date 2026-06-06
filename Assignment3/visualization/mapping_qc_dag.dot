@@ -1,0 +1,29 @@
+digraph mapping_qc_dag {
+  graph [rankdir=LR, bgcolor="white"];
+  node [shape=box, style="rounded,filled", fillcolor="#edf4ff", color="#4a6fa5", fontname="Arial"];
+  edge [color="#4a6fa5"];
+
+  reads [label="ONT reads\nERR11030140.fastq", shape=oval, fillcolor="#fff7df"];
+  reference [label="Reference\nGCF_000005845.2", shape=oval, fillcolor="#fff7df"];
+
+  fastqc [label="FastQC"];
+  index [label="minimap2 index"];
+  map [label="minimap2 map-ont"];
+  view [label="samtools view\nSAM -> BAM"];
+  flagstat [label="samtools flagstat"];
+  parse [label="parse_flagstat.py\nmapped % + OK/not OK"];
+  sort [label="samtools sort"];
+
+  qc_report [label="QC report", shape=oval, fillcolor="#e8ffe8"];
+  status [label="mapping_status.txt", shape=oval, fillcolor="#e8ffe8"];
+  sorted_bam [label="sorted BAM", shape=oval, fillcolor="#e8ffe8"];
+
+  reads -> fastqc -> qc_report;
+  reference -> index;
+  index -> map;
+  reads -> map;
+  map -> view;
+  view -> flagstat;
+  flagstat -> parse -> status;
+  view -> sort -> sorted_bam;
+}

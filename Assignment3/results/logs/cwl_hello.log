@@ -1,0 +1,15 @@
+[1;30mINFO[0m /home/zarc/bioinform/Assignment3/.env/bin/cwltool 3.2.20260413085819
+[1;30mINFO[0m Resolved 'cwl/hello.cwl' to 'file:///home/zarc/bioinform/Assignment3/cwl/hello.cwl'
+[1;30mINFO[0m [job hello.cwl] /tmp/w0ic_ln0$ echo \
+    'Hello world from CWL' > /tmp/w0ic_ln0/hello_world.txt
+[1;30mINFO[0m [job hello.cwl] completed success
+{
+    "output": {
+        "location": "file:///home/zarc/bioinform/Assignment3/results/cwl_hello_run/hello_world.txt",
+        "basename": "hello_world.txt",
+        "class": "File",
+        "checksum": "sha1$fe4e8a149001f8f678050c0ed62a8f0f203db761",
+        "size": 21,
+        "path": "/home/zarc/bioinform/Assignment3/results/cwl_hello_run/hello_world.txt"
+    }
+}[1;30mINFO[0m Final process status is success
