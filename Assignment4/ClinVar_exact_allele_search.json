@@ -1,0 +1,634 @@
+[
+  {
+    "rsID": "rs4986958",
+    "input_GRCh38": "21:33414987 C>G",
+    "queried_SPDI": "NC_000021.9:33414986:C:G",
+    "querytranslation": "\"NC_000021.9:33414986:C:G\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000036376.19"
+    ],
+    "ClinVar_interpretations": [
+      "Benign/Likely benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000021.9:33414986:C:G"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs9808753",
+    "input_GRCh38": "21:33415005 A>G",
+    "queried_SPDI": "NC_000021.9:33415004:A:G",
+    "querytranslation": "\"NC_000021.9:33415004:A:G\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV001169473.16"
+    ],
+    "ClinVar_interpretations": [
+      "Benign/Likely benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000021.9:33415004:A:G"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs2507733",
+    "input_GRCh38": "21:37072563 T>C",
+    "queried_SPDI": "NC_000021.9:37072562:T:C",
+    "querytranslation": "(\"NC_000021.9:37072562:T:C\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs73200245",
+    "input_GRCh38": "21:37072581 G>A",
+    "queried_SPDI": "NC_000021.9:37072580:G:A",
+    "querytranslation": "\"NC_000021.9:37072580:G:A\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV001670166.11"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000021.9:37072580:G:A"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs116698978",
+    "input_GRCh38": "21:38818580 G>A",
+    "queried_SPDI": "NC_000021.9:38818579:G:A",
+    "querytranslation": "(\"NC_000021.9:38818579:G:A\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs61737061",
+    "input_GRCh38": "21:43094699 G>A",
+    "queried_SPDI": "NC_000021.9:43094698:G:A",
+    "querytranslation": "(\"NC_000021.9:43094698:G:A\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs79309256",
+    "input_GRCh38": "21:43969150 C>G",
+    "queried_SPDI": "NC_000021.9:43969149:C:G",
+    "querytranslation": "(\"NC_000021.9:43969149:C:G\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs61735928",
+    "input_GRCh38": "22:19383643 G>A",
+    "queried_SPDI": "NC_000022.11:19383642:G:A",
+    "querytranslation": "\"NC_000022.11:19383642:G:A\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000777663.6"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:19383642:G:A"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs114971216",
+    "input_GRCh38": "22:19972976 C>T",
+    "queried_SPDI": "NC_000022.11:19972975:C:T",
+    "querytranslation": "\"NC_000022.11:19972975:C:T\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000709199.4"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:19972975:C:T"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs74544696",
+    "input_GRCh38": "22:19979957 C>G",
+    "queried_SPDI": "NC_000022.11:19979956:C:G",
+    "querytranslation": "\"NC_000022.11:19979956:C:G\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV001180930.3"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:19979956:C:G"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs80068543",
+    "input_GRCh38": "22:19981520 C>T",
+    "queried_SPDI": "NC_000022.11:19981519:C:T",
+    "querytranslation": "\"NC_000022.11:19981519:C:T\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV001288326.2"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:19981519:C:T"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs33992092",
+    "input_GRCh38": "22:19981972 G>T",
+    "queried_SPDI": "NC_000022.11:19981971:G:T",
+    "querytranslation": "\"NC_000022.11:19981971:G:T\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000777061.6"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:19981971:G:T"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs73166641",
+    "input_GRCh38": "22:21643991 G>A",
+    "queried_SPDI": "NC_000022.11:21643990:G:A",
+    "querytranslation": "(\"NC_000022.11:21643990:G:A\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs115446312",
+    "input_GRCh38": "22:21962760 G>A",
+    "queried_SPDI": "NC_000022.11:21962759:G:A",
+    "querytranslation": "\"NC_000022.11:21962759:G:A\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000786695.5"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:21962759:G:A"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs9610729",
+    "input_GRCh38": "22:21964299 G>A",
+    "queried_SPDI": "NC_000022.11:21964298:G:A",
+    "querytranslation": "\"NC_000022.11:21964298:G:A\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV003055564.2"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:21964298:G:A"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs114880937",
+    "input_GRCh38": "22:21974379 G>A",
+    "queried_SPDI": "NC_000022.11:21974378:G:A",
+    "querytranslation": "(\"NC_000022.11:21974378:G:A\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs61747143",
+    "input_GRCh38": "22:23146672 C>T",
+    "queried_SPDI": "NC_000022.11:23146671:C:T",
+    "querytranslation": "(\"NC_000022.11:23146671:C:T\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs5759611",
+    "input_GRCh38": "22:23160934 G>A",
+    "queried_SPDI": "NC_000022.11:23160933:G:A",
+    "querytranslation": "(\"NC_000022.11:23160933:G:A\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs114362926",
+    "input_GRCh38": "22:24183562 C>T",
+    "queried_SPDI": "NC_000022.11:24183561:C:T",
+    "querytranslation": "(\"NC_000022.11:24183561:C:T\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs116712499",
+    "input_GRCh38": "22:24187576 G>A",
+    "queried_SPDI": "NC_000022.11:24187575:G:A",
+    "querytranslation": "\"NC_000022.11:24187575:G:A\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV003172261.1"
+    ],
+    "ClinVar_interpretations": [
+      "Uncertain significance"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:24187575:G:A"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs74558263",
+    "input_GRCh38": "22:24188053 C>T",
+    "queried_SPDI": "NC_000022.11:24188052:C:T",
+    "querytranslation": "\"NC_000022.11:24188052:C:T\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000777671.4"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:24188052:C:T"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs17884212",
+    "input_GRCh38": "22:28745929 A>G",
+    "queried_SPDI": "NC_000022.11:28745928:A:G",
+    "querytranslation": "(\"NC_000022.11:28745928:A:G\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs5753130",
+    "input_GRCh38": "22:30427209 T>C",
+    "queried_SPDI": "NC_000022.11:30427208:T:C",
+    "querytranslation": "(\"NC_000022.11:30427208:T:C\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs35764129",
+    "input_GRCh38": "22:30460134 G>A",
+    "queried_SPDI": "NC_000022.11:30460133:G:A",
+    "querytranslation": "(\"NC_000022.11:30460133:G:A\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs5749104",
+    "input_GRCh38": "22:30461461 A>G",
+    "queried_SPDI": "NC_000022.11:30461460:A:G",
+    "querytranslation": "(\"NC_000022.11:30461460:A:G\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs114917409",
+    "input_GRCh38": "22:30461658 C>G",
+    "queried_SPDI": "NC_000022.11:30461657:C:G",
+    "querytranslation": "(\"NC_000022.11:30461657:C:G\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs115111929",
+    "input_GRCh38": "22:30462162 A>C",
+    "queried_SPDI": "NC_000022.11:30462161:A:C",
+    "querytranslation": "(\"NC_000022.11:30462161:A:C\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs116469787",
+    "input_GRCh38": "22:30466386 G>A",
+    "queried_SPDI": "NC_000022.11:30466385:G:A",
+    "querytranslation": "(\"NC_000022.11:30466385:G:A\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs112976399",
+    "input_GRCh38": "22:30555239 C>T",
+    "queried_SPDI": "NC_000022.11:30555238:C:T",
+    "querytranslation": "(\"NC_000022.11:30555238:C:T\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs114565111",
+    "input_GRCh38": "22:30555495 G>C",
+    "queried_SPDI": "NC_000022.11:30555494:G:C",
+    "querytranslation": "\"NC_000022.11:30555494:G:C\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV004261361.1"
+    ],
+    "ClinVar_interpretations": [
+      "Uncertain significance"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:30555494:G:C"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs112070427",
+    "input_GRCh38": "22:30555895 G>A",
+    "queried_SPDI": "NC_000022.11:30555894:G:A",
+    "querytranslation": "(\"NC_000022.11:30555894:G:A\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs116593437",
+    "input_GRCh38": "22:31091747 G>A",
+    "queried_SPDI": "NC_000022.11:31091746:G:A",
+    "querytranslation": "\"NC_000022.11:31091746:G:A\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000721065.4"
+    ],
+    "ClinVar_interpretations": [
+      "Benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:31091746:G:A"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs34292278",
+    "input_GRCh38": "22:31096795 C>T",
+    "queried_SPDI": "NC_000022.11:31096794:C:T",
+    "querytranslation": "\"NC_000022.11:31096794:C:T\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV004457563.1"
+    ],
+    "ClinVar_interpretations": [
+      "not provided"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:31096794:C:T"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs116641021",
+    "input_GRCh38": "22:31096797 C>T",
+    "queried_SPDI": "NC_000022.11:31096796:C:T",
+    "querytranslation": "(\"NC_000022.11:31096796:C:T\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs5997927",
+    "input_GRCh38": "22:31262170 C>T",
+    "queried_SPDI": "NC_000022.11:31262169:C:T",
+    "querytranslation": "(\"NC_000022.11:31262169:C:T\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs79923828",
+    "input_GRCh38": "22:31278313 T>C",
+    "queried_SPDI": "NC_000022.11:31278312:T:C",
+    "querytranslation": "(\"NC_000022.11:31278312:T:C\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs73399520",
+    "input_GRCh38": "22:33277184 C>T",
+    "queried_SPDI": "NC_000022.11:33277183:C:T",
+    "querytranslation": "\"NC_000022.11:33277183:C:T\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000095170.26"
+    ],
+    "ClinVar_interpretations": [
+      "Benign/Likely benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:33277183:C:T"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs115686643",
+    "input_GRCh38": "22:33316147 G>A",
+    "queried_SPDI": "NC_000022.11:33316146:G:A",
+    "querytranslation": "\"NC_000022.11:33316146:G:A\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000902052.11"
+    ],
+    "ClinVar_interpretations": [
+      "Conflicting classifications of pathogenicity"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:33316146:G:A"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs59349720",
+    "input_GRCh38": "22:33650466 G>A",
+    "queried_SPDI": "NC_000022.11:33650465:G:A",
+    "querytranslation": "\"NC_000022.11:33650465:G:A\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000095174.27"
+    ],
+    "ClinVar_interpretations": [
+      "Benign/Likely benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:33650465:G:A"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs116555717",
+    "input_GRCh38": "22:39231644 T>C",
+    "queried_SPDI": "NC_000022.11:39231643:T:C",
+    "querytranslation": "\"NC_000022.11:39231643:T:C\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV003305447.2"
+    ],
+    "ClinVar_interpretations": [
+      "Conflicting classifications of pathogenicity"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:39231643:T:C"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs17565",
+    "input_GRCh38": "22:39231816 T>C",
+    "queried_SPDI": "NC_000022.11:39231815:T:C",
+    "querytranslation": "\"NC_000022.11:39231815:T:C\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV000725856.33"
+    ],
+    "ClinVar_interpretations": [
+      "Benign/Likely benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:39231815:T:C"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs114948690",
+    "input_GRCh38": "22:39743860 A>G",
+    "queried_SPDI": "NC_000022.11:39743859:A:G",
+    "querytranslation": "\"NC_000022.11:39743859:A:G\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV004249268.1"
+    ],
+    "ClinVar_interpretations": [
+      "Uncertain significance"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:39743859:A:G"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs115673469",
+    "input_GRCh38": "22:39744223 A>G",
+    "queried_SPDI": "NC_000022.11:39744222:A:G",
+    "querytranslation": "\"NC_000022.11:39744222:A:G\"[cspdi]",
+    "ClinVar_exact_VCVs": [
+      "VCV003845024.1"
+    ],
+    "ClinVar_interpretations": [
+      "Likely benign"
+    ],
+    "ClinVar_canonical_SPDIs": [
+      "NC_000022.11:39744222:A:G"
+    ],
+    "exact_match": "yes"
+  },
+  {
+    "rsID": "rs115492335",
+    "input_GRCh38": "22:39821109 A>G",
+    "queried_SPDI": "NC_000022.11:39821108:A:G",
+    "querytranslation": "(\"NC_000022.11:39821108:A:G\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs116765273",
+    "input_GRCh38": "22:39835855 A>G",
+    "queried_SPDI": "NC_000022.11:39835854:A:G",
+    "querytranslation": "(\"NC_000022.11:39835854:A:G\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs114714334",
+    "input_GRCh38": "22:39861847 C>T",
+    "queried_SPDI": "NC_000022.11:39861846:C:T",
+    "querytranslation": "(\"NC_000022.11:39861846:C:T\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs8139570",
+    "input_GRCh38": "22:39887557 A>G",
+    "queried_SPDI": "NC_000022.11:39887556:A:G",
+    "querytranslation": "(\"NC_000022.11:39887556:A:G\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs116438980",
+    "input_GRCh38": "22:40019984 A>G",
+    "queried_SPDI": "NC_000022.11:40019983:A:G",
+    "querytranslation": "(\"NC_000022.11:40019983:A:G\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs115264708",
+    "input_GRCh38": "22:44891338 T>C",
+    "queried_SPDI": "NC_000022.11:44891337:T:C",
+    "querytranslation": "(\"NC_000022.11:44891337:T:C\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  },
+  {
+    "rsID": "rs35195493",
+    "input_GRCh38": "22:50177576 C>G",
+    "queried_SPDI": "NC_000022.11:50177575:C:G",
+    "querytranslation": "(\"NC_000022.11:50177575:C:G\"[cspdi])",
+    "ClinVar_exact_VCVs": [],
+    "ClinVar_interpretations": [],
+    "ClinVar_canonical_SPDIs": [],
+    "exact_match": "no exact SPDI result"
+  }
+]
